@@ -1,0 +1,18 @@
+# Summary
+
+* [Home](README.md)
+* [Chapter 1: Discovery](chapter1-discovery/README.md)
+  * [Business Requirements](chapter1-discovery/business-requirements.md)
+  * [Stakeholder Mapping](chapter1-discovery/stakeholder-mapping.md)
+  * [Current Avaya Landscape](chapter1-discovery/current-avaya-landscape.md)
+  * [Network Assessment](chapter1-discovery/network-assessment.md)
+  * [KPIs & Success Metrics](chapter1-discovery/kpis-and-success-metrics.md)
+* [Chapter 2: Design](chapter2-design/README.md)
+  * [Target Architecture Diagram](chapter2-design/target-architecture-diagram.md)
+  * [Integrations](chapter2-design/integrations.md)
+  * [Security & Compliance](chapter2-design/security-and-compliance.md)
+* [Chapter 3: Migration](chapter3-migration/README.md)
+  * [Pilot Plan](chapter3-migration/pilot-plan.md)
+  * [Full Cutover](chapter3-migration/full-cutover.md)
+  * [Rollback Strategy](chapter3-migration/rollback-strategy.md)
+* [Appendix](appendix/references.md)
